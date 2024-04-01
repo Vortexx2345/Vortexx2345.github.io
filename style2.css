@@ -2,26 +2,32 @@ body
 {
     background-color: #696969;
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Outfit",sans-serif;
+    font-weight: 400;
+    font-size: 1.5em;
 }
 
 .Header
 {
-    padding: 10px, 2px;
+    padding: 20px, 2px;
     color: white;
     background-color: #111111;
-    
 }
 
 img
 {
     height: 5%;
     width: 5%;
+    vertical-align: middle;
+    padding: 10px;
 }
 
 .headertext
 {
-    text-align: centre;
+    
+    display: inline-block;
+    text-align: center;
+    padding: 20px, 0px;
 }
 
 
