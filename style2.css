@@ -30,6 +30,17 @@ img
 
 }
 
+@media only screen (max-width: 768){
+    img{
+        height: 15%;
+        width: 15%;
+    }
+
+    #headertext{
+        font-size: 100%;
+    }
+}
+
 
 
 
