@@ -1,17 +1,26 @@
 body
 {
-    background-color: silver;
+    background-color: #696969;
+    margin: 0;
 }
 
 .Header
 {
-    margin: 0px;
-    padding: 60px;
-    text-align: center;
+    padding: 10px, 2px;
     color: white;
-    background-color: black;
+    background-color: #111111;
+    
 }
 
+img
+{
+    height: 5%;
+    width: 5%;
+}
 
+.headertext
+{
+    text-align: centre;
+}
 
 
