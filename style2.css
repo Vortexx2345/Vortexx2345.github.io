@@ -4,14 +4,15 @@ body
     margin: 0;
     font-family: "Outfit",sans-serif;
     font-weight: 400;
-    font-size: 1.5em;
+    
 }
 
 .Header
 {
-    padding: 20px, 2px;
+    padding: 30px, 2px;
     color: white;
-    background-color: #111111;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(8,8,8,1) 51%, rgba(22,22,22,1) 100%);
+    
 }
 
 img
@@ -22,12 +23,13 @@ img
     padding: 10px;
 }
 
-.headertext
+#headertext
 {
-    
-    display: inline-block;
-    text-align: center;
-    padding: 20px, 0px;
+    font-size: 200%;
+    padding: 50px, 2px;
+
 }
+
+
 
 
